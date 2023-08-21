@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Raj7912",
+  "repo": "container-tcyhuu4",
+  "name": "Raj7912",
+  "email": "p8293198287@gmail.com",
+}
